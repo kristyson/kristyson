@@ -2,7 +2,7 @@
 ### Developer Mobile
 
 
-<p align="center">Entusiasta de ciência da computação em <strong>constante evolução.<strong> Apaixonado por <strong>desenvolvimento mobile<strong> e solucionador criativo de problemas. Comprometido com o aprendizado contínuo e no trabalho em equipe.</p>&nbsp;
+<p align="center">Entusiasta de ciência da computação em <strong>constante evolução.<strong> Apaixonado por <strong>desenvolvimento mobile<strong> e solucionador criativo de problemas.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kristyson&theme=dark&mode=weekly" />
