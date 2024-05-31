@@ -10,17 +10,15 @@
  &nbsp;
  &nbsp;
 
-
-
 ## Skills
-
 
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
 
-<img src="https://media2.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://media2.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" min-width="350px" max-width="350px" width="350px" align="center" alt="Computador iuriCode">
+
 
 ### Tools :
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
@@ -36,14 +34,11 @@
 &nbsp;
 
 ## Contato:
-
 <div> 
 </a>
 <a href = "mailto:kristyson.business@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/kristyson-alpino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
- 
-
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005C53&height=120&section=footer"/>
